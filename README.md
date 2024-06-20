@@ -1,7 +1,7 @@
-# EFDM: E(3) Equivariant fission Diffusion Model for Molecule Generation in 3D.
+# EFDM: E(3) Equivariant Fission Diffusion Model for Molecule Generation in 3D.
 
 
-Official code release for the paper E(3) Equivariant fission Diffusion Model for Molecule Generation in 3D.
+Official code release for the paper E(3) Equivariant Fission Diffusion Model for Molecule Generation in 3D.
 
 **If** you want to set-up a rdkit environment, it may be easiest to install conda and run:
 ``conda create -c conda-forge -n my-rdkit-env rdkit``
